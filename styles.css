@@ -14,3 +14,6 @@ li {
 li:hover {
   background: #ccc;
 }
+.item{
+	 border: 1px solid black;
+}
